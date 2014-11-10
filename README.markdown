@@ -1,3 +1,12 @@
+Deprecated
+==========
+This repository is deprecated, and may be removed.
+
+Instead see:
+<https://github.com/OS2web>
+<https://github.com/OS2webcore>
+Where the modules are kept individually.
+
 Modules for the OS2Web project
 ================================
 
